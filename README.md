@@ -30,4 +30,4 @@ Eu sou Lauany Reis da Silva, estou cursando Ciência da computação no Institut
 - 💬 Sou considerada tímida, porém me esforço para melhorar minhas comunicação e empatia.
 - 📫 Para mais informações: [Site pessoal](https://lawniet.github.io/)
 - 🎯 Portfólio artístico: [Lawniet Design](https://portifolio-oline.webnode.com/)
-- ⚡ Fato engraçado: Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch é uma das palavras mais longas do mundo, sendo uma localidade do País de Gales.
+- ⚡ Fato engraçado: **Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch** é uma das palavras mais longas do mundo, sendo uma localidade do País de Gales.
