@@ -10,6 +10,7 @@ Eu sou Lauany Reis da Silva, estou cursando Ciência da computação no Institut
 ## 👯 Comunidades
 * Ramo Estudantil IEEE IFB 
 * IEEE Computer Society SYP
+* SCRUMstudy
 
 ## ⚡ Tecnologias
 - Front-end com **HTML, Javascript, CSS, Bootstrap, React**
