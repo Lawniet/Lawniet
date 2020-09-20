@@ -1,11 +1,11 @@
-<h2>Lauany Reis da Silva</h2>
+<h2>Sobre mim</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-lauanyreisdasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauany-reis-da-silva-569870119/)](https://www.linkedin.com/in/lauany-reis-da-silva-569870119/) 
 [![Gmail Badge](https://img.shields.io/badge/lauanyrs1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauanyrs1997@gmail.com)](mailto:LauanyRS1997@gmail.com)
 
-Eu sou Lauany Reis da Silva, estou cursando Ciência da computação no Instituto Federal de Brasília. Sou entusiasta no estudo autônomo e procuro aprender de tudo um pouco. Tenho experiência com desenvolvedora front-end e back-end, pois já atuei em diversos projetos nos quais contribui em ambas partes.
+Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instituto Federal de Brasília. Sou entusiasta no estudo autônomo e procuro aprender de tudo um pouco. Tenho experiência com desenvolvedora front-end e back-end, pois já atuei em diversos projetos nos quais contribui em ambas partes.
 
 ## 👯 Comunidades
 * Ramo Estudantil IEEE IFB 
