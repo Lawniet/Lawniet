@@ -12,6 +12,7 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 * IEEE Computer Society SYP
 * SCRUMstudy
 * [Campuse.ro](https://campuse.ro/Lauany/bios?view=public)
+* [SoloLearn](https://www.sololearn.com/Profile/3740046)
 
 ## ⚡ Tecnologias
 - Front-end com **HTML, Javascript, CSS, Bootstrap, React**
