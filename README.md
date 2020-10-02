@@ -15,8 +15,8 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 * [SoloLearn](https://www.sololearn.com/Profile/3740046)
 
 ## ⚡ Tecnologias
-- Front-end com **HTML, Javascript, CSS, Bootstrap, React**
-- Backend development using **C#, Asp.Net, Java, PHP**
+- Front-end com **HTML, Javascript, CSS, Bootstrap, React Native**
+- Backend development using **C#, Asp.Net, Java, PHP, Node.js**
 - Sistemas de Gerenciamento de Banco de Dados usando **MongoDB, SQL server e MySQL**
 - Planejamento e desenvolvimento full-stack
 - Aplicações Desktop usando **C/C++, Ruby e Python** (em aprendizagem continuo)
@@ -26,7 +26,7 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 - Sistemas embarcados e IoT **Arduino**
 - Paradigma Lógico Matemático **Prolog**
 - Lógica não proposicional **Lógica Fuzzy e sistemas difusos**
-- Sistemas multicore **OpenMP**
+- Sistemas multicore **API OpenMP**
 - Georeferenciamento e mapas dinâmicos **Fusion Tables e API Google Maps**
 
 ## Mais informações 🤔
