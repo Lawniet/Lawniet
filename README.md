@@ -22,12 +22,12 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 - Aplicações Desktop usando **C/C++, Ruby e Python** (em aprendizagem continuo)
 - Aplicações móveis usando **Android/Java, Flutter**
 - Criação de sistemas usando **AWS Cloud Azure**
-- Aprendizagem de máquina  **Python e Octave**
-- Sistemas embarcados e IoT **Arduino**
-- Paradigma Lógico Matemático **Prolog**
+- Aprendizagem de máquina usando **Python e Octave**
+- Sistemas embarcados e IoT com **Arduino**
+- Paradigma Lógico Matemático com **Prolog**
 - Lógica não proposicional **Lógica Fuzzy e sistemas difusos**
-- Sistemas multicore **API OpenMP**
-- Georeferenciamento e mapas dinâmicos **Fusion Tables e API Google Maps**
+- Sistemas multicore usando **PThreads e API OpenMP**
+- Georeferenciamento e mapas dinâmicos com **Fusion Tables e API Google Maps**
 
 ## Mais informações 🤔
 - 💬 Sou considerada tímida, porém me esforço para melhorar minhas comunicação e empatia.
