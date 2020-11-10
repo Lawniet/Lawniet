@@ -16,7 +16,7 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 
 ## ⚡ Tecnologias
 - Front-end com **HTML, Javascript, CSS, Bootstrap, React Native**
-- Backend development using **C#, Asp.Net, Java, PHP, Node.js**
+- Back-end com **C#, Asp.Net, Java, PHP, Node.js**
 - Sistemas de Gerenciamento de Banco de Dados usando **MongoDB, SQL server e MySQL**
 - Aplicações Desktop usando **C/C++, Ruby e Python** (em aprendizagem continuo)
 - Aplicações móveis usando **Android/Java, Flutter**
