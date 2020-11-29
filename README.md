@@ -29,10 +29,6 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 - Georeferenciamento e mapas dinâmicos com **Fusion Tables e API Google Maps**
 - Prototipagem com **Marvel App e Quant-UX**
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawniet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Mais informações 🤔
 - 💬 Sou considerada tímida, porém me esforço para melhorar minhas comunicação e empatia.
 - 📫 Para mais informações: [Site pessoal](https://lawniet.github.io/)
