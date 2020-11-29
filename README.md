@@ -30,7 +30,7 @@ Me chamo Lauany Reis da Silva, estou cursando Ciência da computação no Instit
 - Prototipagem com **Marvel App e Quant-UX**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawniet&layout=compact&theme=tokyonight)](https://github.com/Lawniet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawniet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Mais informações 🤔
