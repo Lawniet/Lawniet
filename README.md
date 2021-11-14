@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lauanyreisdasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauany-reis-da-silva-569870119/)](https://www.linkedin.com/in/lauany-reis-da-silva-569870119/) 
 [![Gmail Badge](https://img.shields.io/badge/lauanyrs1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauanyrs1997@gmail.com)](mailto:LauanyRS1997@gmail.com)
 
-Me chamo Lauany Reis da Silva, sou bacharela em Ciência da computação pelo Instituto Federal de Brasília e entusiasta no estudo autônomo. Procuro aprender de tudo um pouco e possuo experiência profissional com desenvolvimento back-end C#/.NET, mas já atuei em projetos com desenvolvimento front-end também.
+Me chamo Lauany Reis da Silva, sou bacharela em Ciência da computação pelo Instituto Federal de Brasília e entusiasta no estudo autônomo. Procuro aprender de tudo um pouco na área de desenvolvimento de algoritmos e possuo experiência profissional como back-end em C#/.NET, mas já atuei em diversos projetos como front-end também.
 
 ## 👯 Comunidades
 * Ramo Estudantil IEEE IFB 
@@ -33,7 +33,7 @@ Me chamo Lauany Reis da Silva, sou bacharela em Ciência da computação pelo In
 - Seguranção da informação com **Cyber Security, Network Security e Lei Geral De Proteção De Dados (LGPD)**
 
 ## Mais informações 🤔
-- 💬 De acordo com o teste teste MBTI eu sou INFJ-T, por isso me esforço constantemente para melhorar minhas habilidades de comunicação e empatia.
+- 💬 De acordo com o teste MBTI eu sou INFJ-T, por isso me esforço constantemente para melhorar minhas habilidades de comunicação, empatia e inteligência emocional.
 - 📫 Para mais informações: [Site pessoal](https://lawniet.github.io/)
 - 🎯 Portfólio artístico: [Lawniet Design](https://portifolio-oline.webnode.com/)
 - ⚡ Fato engraçado e aleatório: **Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch** é uma das palavras mais longas do mundo, sendo uma localidade do País de Gales.
