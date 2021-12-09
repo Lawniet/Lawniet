@@ -11,6 +11,7 @@ Me chamo Lauany Reis da Silva, sou bacharela em Ciência da computação pelo In
 * Ramo Estudantil IEEE IFB 
 * IEEE Computer Society SYP
 * SCRUMstudy
+* Brazilians in Tech
 * [SoloLearn](https://www.sololearn.com/Profile/3740046)
 * [Credly](https://www.credly.com/users/lauany-reis-da-silva)
 
